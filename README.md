@@ -1,4 +1,4 @@
-Topics coverered for week 1 
+Topics coverered in week 1 
 * Fundamentals
 * Control Flows
 * Arrays
