@@ -90,11 +90,11 @@ The first week was dedicated to understanding the core syntax and essential buil
 
 This repository is structured to reflect the topics covered each day. You can find code examples, notes, or exercises within the respective daily folders:
 
-- [`Day1`](https://github.com/Wickeshhh/Week1/tree/master/Day1-Fundamentals)
-- [`Day2`](https://github.com/Wickeshhh/Week1/tree/master/Day2-Control%20Flows)
-- [`Day3`](https://github.com/Wickeshhh/Week1/tree/master/Day3-Arrays)
-- [`Day4`](https://github.com/Wickeshhh/Week1/tree/master/Day4-Methods)
-- [`Day5`](https://github.com/Wickeshhh/Week1/tree/master/Day5-Strings)
+- [`Day1`](https://github.com/Adh1tya/CG-Week1/tree/main/Day%201-Fundamentals)
+- [`Day2`](https://github.com/Adh1tya/CG-Week1/tree/main/Day%202-Control%20Flows)
+- [`Day3`](https://github.com/Adh1tya/CG-Week1/tree/main/Day%203-Arrays)
+- [`Day4`](https://github.com/Adh1tya/CG-Week1/tree/main/Day%204-Methods)
+- [`Day5`](https://github.com/Adh1tya/CG-Week1/tree/main/Day%205-Strings)
 - [`Day6`](https://github.com/Adh1tya/CG-Week1/tree/main/Day%206-Class%20and%20Objects)
 
 Feel free to explore the code, run it, and modify it to deepen your understanding.
