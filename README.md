@@ -78,7 +78,7 @@ The first week was dedicated to understanding the core syntax and essential buil
 
 ---
 
-## 🛠️ Prerequisites
+### [🛠️ Prerequisites]
 
 - A computer with a supported operating system (Windows, macOS, Linux)
 - Java Development Kit (JDK) installed
@@ -86,7 +86,7 @@ The first week was dedicated to understanding the core syntax and essential buil
 
 ---
 
-## 📂 How to Use This Repository
+### [📂 How to Use This Repository]
 
 This repository is structured to reflect the topics covered each day. You can find code examples, notes, or exercises within the respective daily folders:
 
