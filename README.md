@@ -78,7 +78,7 @@ The first week was dedicated to understanding the core syntax and essential buil
 
 ---
 
-### 🛠️ Prerequisites
+## 🛠️ Prerequisites
 
 - A computer with a supported operating system (Windows, macOS, Linux)
 - Java Development Kit (JDK) installed
