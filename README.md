@@ -27,14 +27,14 @@ The first week was dedicated to understanding the core syntax and essential buil
 
 ## ✅ Topics Covered
 
-### [Day 1: Introduction to Java](https://github.com/Wickeshhh/Week1/tree/master/Day1-Fundamentals)
+### [Day 1: Introduction to Java](https://github.com/Adh1tya/CG-Week1/tree/main/Day%201-Fundamentals)
 - What is Java?
 - History and importance of Java
 - Setting up the Java Development Kit (JDK)
 - Writing and running the first Java program ("Hello, World!")
 - Understanding the basic structure of a Java program (classes, main method)
 
-### [Day 2: Control Flow (Conditional Statements and Loops)](https://github.com/Wickeshhh/Week1/tree/master/Day2-Control%20Flows)
+### [Day 2: Control Flow (Conditional Statements and Loops)](https://github.com/Adh1tya/CG-Week1/tree/main/Day%202-Control%20Flows)
 - `if`, `else if`, and `else` statements
 - `switch` statement
 - `for` loops
@@ -42,28 +42,28 @@ The first week was dedicated to understanding the core syntax and essential buil
 - `do-while` loops
 - `break` and `continue` statements
 
-### [Day 3: Arrays](https://github.com/Wickeshhh/Week1/tree/master/Day3-Arrays)
+### [Day 3: Arrays](https://github.com/Adh1tya/CG-Week1/tree/main/Day%203-Arrays)
 - What are arrays?
 - Declaring and initializing arrays
 - Accessing array elements
 - Iterating through arrays
 - Multi-dimensional arrays
 
-### [Day 4: Functions (Methods)](https://github.com/Wickeshhh/Week1/tree/master/Day4-Methods)
+### [Day 4: Functions (Methods)](https://github.com/Adh1tya/CG-Week1/tree/main/Day%204-Methods)
 - What are functions/methods?
 - Defining and calling methods
 - Method parameters and return types
 - Method overloading
 - Understanding `static` and `void` keywords
 
-### [Day 5: Strings](https://github.com/Wickeshhh/Week1/tree/master/Day5-Strings)
+### [Day 5: Strings](https://github.com/Adh1tya/CG-Week1/tree/main/Day%205-Strings)
 - Introduction to the `String` class
 - Creating `String` objects
 - Common `String` methods (`length()`, `charAt()`, `substring()`, `equals()`, `equalsIgnoreCase()`)
 - String concatenation
 - String immutability
 
-### [Day 6: Classes and Objects](https://github.com/Wickeshhh/Week1/tree/master/Day6-Class%20and%20Objects)
+### [Day 6: Classes and Objects](https://github.com/Adh1tya/CG-Week1/tree/main/Day%206-Class%20and%20Objects)
 - Understanding what `classes and objects` are in Java
 
 - Declaring a class and `creating objects` from it using the `new keyword`
@@ -95,7 +95,7 @@ This repository is structured to reflect the topics covered each day. You can fi
 - [`Day3`](https://github.com/Wickeshhh/Week1/tree/master/Day3-Arrays)
 - [`Day4`](https://github.com/Wickeshhh/Week1/tree/master/Day4-Methods)
 - [`Day5`](https://github.com/Wickeshhh/Week1/tree/master/Day5-Strings)
-- [`Day6`](https://github.com/Wickeshhh/Week1/tree/master/Day6-Class%20and%20Objects)
+- [`Day6`](https://github.com/Adh1tya/CG-Week1/tree/main/Day%206-Class%20and%20Objects)
 
 Feel free to explore the code, run it, and modify it to deepen your understanding.
 
